@@ -1,0 +1,25 @@
+/* Adding CSS to my recipies */
+.Odin {
+    font-size: 75px;
+    font-family: "Brush Script MT", cursive, courier;
+    text-decoration: underline;
+    color: red;
+    text-align: center;
+}
+
+.links {
+    font-size: 36px;
+    color: yellow;
+}
+
+.chica {
+    height: auto;
+    width: 1000px;
+}
+
+p {
+    font-size: 28px;
+    color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
